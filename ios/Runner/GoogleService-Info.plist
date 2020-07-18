@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1081536642202-feie3qpqnnenvlg40p07p42306q0hj9g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1081536642202-feie3qpqnnenvlg40p07p42306q0hj9g</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1081536642202-utlvdc670muqb3stm6tvgi3676cur9ta.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDEJSSFwO2L0kfMxnebY3ZwMMbhI5wBOPM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1081536642202</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.murilobeltrame.chat</string>
+	<key>PROJECT_ID</key>
+	<string>chatflutter-196f9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatflutter-196f9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1081536642202:ios:b376f16f645c4c9729f323</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatflutter-196f9.firebaseio.com</string>
+</dict>
+</plist>
